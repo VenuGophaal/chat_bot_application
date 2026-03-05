@@ -2,7 +2,7 @@
 // Admin Panel - Script
 // ============================================
 
-const API_BASE = "https://chat-bot-application-backend-server.onrender.com";
+const API_BASE = "https://chat-bot-application-backend-s08h.onrender.com";
 
 let authToken = null;
 let allQuestions = [];

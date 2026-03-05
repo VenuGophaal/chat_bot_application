@@ -1,5 +1,5 @@
 // College Chatbot - AI Powered
-const API_BASE_URL = "https://chat-bot-application-backend-server.onrender.com";
+const API_BASE_URL = "https://chat-bot-application-backend-s08h.onrender.com";
 
 function getSavedChat(){
   try{ return JSON.parse(sessionStorage.getItem('chat_history') || '[]') }catch(e){ return [] }
